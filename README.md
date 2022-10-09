@@ -1,5 +1,5 @@
 # WebBrowserProject
-A GUI application that displays a custom web browser.
+A GUI application that displays a functional custom web browser.
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
