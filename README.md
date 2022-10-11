@@ -21,7 +21,7 @@ Project is created with:
 * IntelliJ IDEA
 
 ## Functionality
-I used SceneBuilder to create a layout of the web browser and attached methods I've created to each container and control. I've set Google as my default web engine/homepage. <b />
+I used SceneBuilder to create a layout of the web browser and attached methods I've created to each container and control. I've set Google as my default web engine/homepage where my application can be used to access and view websites. <b />
 Each button located on the menubar is fully functional.
 * File - a functional menu button that has a dropdown menu that gives you the options to zoom in or zoom out when those buttons are pressed
   * Zoom in - a functional menu button located in the File button dropdown menu, which allows you to zoom in for better visibility when clicked
