@@ -39,6 +39,3 @@ Each button located on the menubar is fully functional.
 <br /><br /><br />
 <img width="1220" alt="webBrowser screenshot2" src="https://user-images.githubusercontent.com/88301319/194426340-79e2e86e-28cc-497d-beaa-9b6e2a67a9d5.png">
 
-## Acknowledgements
-* This app was inspired by the JavaFX GUI Course from Bro Code.
-* Youtube: <https://www.youtube.com/watch?v=bI6e6qjJ8JQ&list=PLnPm91GDZz1qIBMqpedwLHiBTnJo9YhzD&index=4&t=34s&ab_channel=BroCode>
